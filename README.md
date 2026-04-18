@@ -23,4 +23,4 @@ A GUI-based network scanning tool built using Python that integrates Nmap to per
 <ol>Save scan reports</ol>
 <ol>Add scan types (Quick / Full)</ol>
 <ol>Better UI</ol>
-Vulnerability hints
+<ol>Vulnerability hints</ol>
