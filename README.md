@@ -16,7 +16,7 @@ A GUI-based network scanning tool built using Python that integrates Nmap to per
 <ol>pip install python-nmap</ol>
 <ol>python main.py</ol>
 📸 Screenshots
-![GUI](./images/screen.png)
+<img src="./images/screen.png" width="500">
 
 
 📌 Future Improvements
